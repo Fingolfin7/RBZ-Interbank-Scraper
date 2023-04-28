@@ -5,11 +5,9 @@ This project is a Python script that downloads the latest pdf file from the RBZ 
 ## Requirements
 
 - Python 3.6 or higher
-- beautifulsoup4==4.11.2
-- requests==2.28.1
-- tabula==1.0.5
-- tabula_py==2.7.0
-- tabulate==0.9.0
+- beautifulsoup4
+- request
+- PyPDF2<3.0
 
 ## Installation
 
